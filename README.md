@@ -1,5 +1,3 @@
-# Energy_demand_forecasting_with_XGBoost
-Time Series Energy Demand: EDA &amp; Prediction
+# Energy_demand_forecasting_with_MRFO_and_LSTM
 
-
-EDA is completed. Modelling is next.
+The first notebook contains the EDA and the second, the modelling strategy developed through the EDA insights.
